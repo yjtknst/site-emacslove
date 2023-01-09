@@ -1,0 +1,6 @@
+#+TITLE: Love Emacs and Orgmode!
+#+OPTIONS: toc:nil
+
+* このサイトについて
+
+このサイトは現在構築中です。EmacsとOrgmodeの魅力と便利な利用法を紹介する予定です。
